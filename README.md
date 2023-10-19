@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan
 - 👀 I like to build.
-- 📫 Catch me at @segaul_ on Twitter
+- 📫 Catch me at @ev_seg on Twitter
 
 <!---
 segaul/segaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
